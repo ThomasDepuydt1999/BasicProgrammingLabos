@@ -1,0 +1,1 @@
+getal = int(input("geef het eerste getal \n"))
